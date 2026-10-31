@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+redis
+langchain
+langchain-community
+langchain-core
+langchain-redis
+python-dotenv
+pydantic
+requests
+huggingface-hub
